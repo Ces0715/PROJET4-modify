@@ -341,7 +341,7 @@ a:hover {
 .center-block {
     display: block;
     margin-right: 100px;
-    margin-left: 400px;
+    margin-left: 420px;
 }
 
 .navbar-toggle {
@@ -711,6 +711,8 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    display: flex;
+    justify-content: space-between;
 }
 
 h2 {
