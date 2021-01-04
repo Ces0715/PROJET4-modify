@@ -345,6 +345,8 @@ a:hover {
     display: block;
     margin-right: auto;
     margin-left: auto;
+    width:150px;
+    height:150px;
 }
 
 .navbar-toggle {
@@ -781,7 +783,7 @@ h4 {
 }
 
 .tc-white {
-    color: white !important;
+    color: white!important;
     font-size: 25px;
 }
 
