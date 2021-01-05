@@ -691,6 +691,11 @@ a {
     margin: auto auto auto auto;
 }
 
+.web-design{
+    text-align: center;
+    font-size: 25px;
+}
+
 p {
     font-size: 15px;
 }
