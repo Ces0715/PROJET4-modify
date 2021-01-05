@@ -345,8 +345,8 @@ a:hover {
     display: block;
     margin-right: auto;
     margin-left: auto;
-    width:150px;
-    height:150px;
+    width: 150px;
+    height: 150px;
 }
 
 .navbar-toggle {
@@ -783,14 +783,9 @@ h4 {
 }
 
 .tc-white {
-    color:black!important;
+    color: white !important;
     font-size: 25px;
 }
-
-h1{
-    color:black;
-}
-
 
 .btn-atomic-tangerine {
     background: #f3976c;
@@ -882,7 +877,7 @@ h1{
         width: 100%;
     }
 
-    .text-center{
+    .text-center {
         font-size: 18px;
     }
     .b-parallax {
@@ -1055,8 +1050,8 @@ h1{
         padding-right: 0;
     }
 
-    .text-center{
-    font-size: 12px;
+    .text-center {
+        font-size: 12px;
     }
 }
 
