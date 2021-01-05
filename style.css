@@ -269,6 +269,7 @@ a:hover {
     border-color: rgba(0, 0, 0, 0.3);
 }
 
+
 .voffset {
     margin-top: 30px;
 }
@@ -674,6 +675,7 @@ a {
 .hero-bloc-text {
     font-size: 48px;
     text-align: center;
+    background-color: rgba(165, 147, 99, 0.7);
 }
 
 .hero-bloc-text-sub {
