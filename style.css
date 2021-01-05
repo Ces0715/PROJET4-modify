@@ -735,7 +735,7 @@ h3 {
 }
 
 h1 {
-    color: #333333 !important;
+    color: black !important;
 }
 
 h4 {
@@ -783,7 +783,7 @@ h4 {
 }
 
 .tc-white {
-    color: white!important;
+    color:black!important;
     font-size: 25px;
 }
 
