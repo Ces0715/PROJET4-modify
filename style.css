@@ -835,8 +835,8 @@ h4 {
 
 @media (max-width: 1024px) {
     .bloc {
-        padding-left: 20px;
-        padding-right: 20px;
+        padding-left: 0px;
+        padding-right: 0px;
     }
     .bloc.full-width-bloc,
     .bloc-tile-2.full-width-bloc .container,
@@ -976,6 +976,8 @@ h4 {
         overflow-x: hidden;
         -webkit-box-shadow: none;
         box-shadow: none;
+        text-align: right;
+        padding-right: 20px;
     }
     .navbar-brand img {
         max-height: 40px;
