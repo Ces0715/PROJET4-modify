@@ -15,5 +15,8 @@
     "url": "https://github.com/Ces0715/PROJET4-modify/issues"
   },
   "homepage": "https://github.com/Ces0715/PROJET4-modify#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^4.5.3"
+  }
 }
