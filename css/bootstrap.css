@@ -140,7 +140,7 @@ select,
 textarea {
     margin: 0;
     font: inherit;
-    color: inherit
+    color: inherit;
 }
 
 button {
@@ -172,7 +172,8 @@ input::-moz-focus-inner {
 }
 
 input {
-    line-height: normal
+    line-height: normal;
+    
 }
 
 input[type=checkbox],

@@ -61,6 +61,10 @@ a:hover {
     padding-left: 0px;
 }
 
+input{
+    box-shadow: 8px 8px 8px;
+}
+
 .bg-center,
 .bg-l-edge,
 .bg-r-edge,
@@ -528,7 +532,7 @@ button {
 
 .form-control {
     border-color: rgba(0, 0, 0, 0.1);
-    box-shadow: none;
+   
 }
 
 .scrollToTop {
@@ -671,7 +675,6 @@ label,
 .btn,
 a {
     font-family: "helvetica";
-    
     color: black;
 }
 
