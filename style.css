@@ -65,6 +65,10 @@ input{
     box-shadow: 8px 8px 8px;
 }  
 
+.form-group{
+    font-size: 18px;
+}
+
 .bg-center,
 .bg-l-edge,
 .bg-r-edge,
